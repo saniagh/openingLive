@@ -41,3 +41,5 @@ All of the other settings of the container and whatsoever can be changed in /src
 
 Update: Structure has been changed due to the usage of React Router being added.
 Will update whole project to work with node expressJS server this year.
+
+<b>For the login and signup form and pages, refer to https://github.com/peredurabefrog/phpSecureLogin which provided these great tools. Current in-use files are modified and should not be used for own projects. Refer to the above link.</b>
